@@ -1,9 +1,9 @@
 
 
-### Hi there 👋, My Name is Badsha Sheikh
+# My Name is Badsha Sheikh
 
 
-#### I am Full-Stack Devveloper
+## I am Full-Stack Devveloper
 
 
 ## About Me
