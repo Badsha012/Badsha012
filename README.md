@@ -26,7 +26,6 @@ A Computer Science major proficient in full-stack development, utilizing Django 
 
 <p align="left"> <a href="https://twitter.com/@mdbadshash84172" target="blank"><img src="https://img.shields.io/twitter/follow/@mdbadshash84172?logo=twitter&style=for-the-badge" alt="@mdbadshash84172" /></a> </p>
 
-- 🔭I’m currently working on [Emergency_Service](https://badsha012.github.io/Emergency-_Service/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
