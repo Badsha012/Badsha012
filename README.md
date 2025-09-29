@@ -3,7 +3,7 @@
 # My Name is Badsha Sheikh
 
 
-## I am Full-Stack Devveloper
+## I am Full-Stack Developer
 
 
 ## About Me
@@ -12,7 +12,7 @@ A Computer Science major proficient in full-stack development, utilizing Django 
 ## 🎯 Goals
 - **🥅 2023 Goals**: Complete DSA and become Codeforces .
 - **🥅 2025 Goals**: To become CodeChef 2-star, solve 700+ problems, and participate in ICPC Dhaka Regional (✔ Done).
-- **🥅 2025 Goals**: To improve my development skills and get a job.
+- **🥅 2025 Goals**: To improve my development skills 
 
 
 
