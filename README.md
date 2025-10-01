@@ -76,6 +76,8 @@ A Computer Science major proficient in full-stack development, utilizing Django 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badsha012&show_icons=true&locale=en" alt="badsha012" /></p>
 
+##
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badsha012&" alt="badsha012" /></p>
 
 
