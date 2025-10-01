@@ -1,101 +1,77 @@
-# 👋 Hi, I'm Badsha Sheikh  
-## 💻 Full-Stack Developer  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Badsha+Sheikh;Full-Stack+Developer;Competitive+Programmer;ICPC+Dhaka+Regional+2024+Contestant" alt="Typing SVG" />
+</h1>
 
 ---
 
-## 🧑‍💻 About Me
-A Computer Science major proficient in **full-stack development**, utilizing:  
-- **Backend:** Django (Python), Node.js / Express.js  
-- **Frontend:** HTML, CSS, Tailwind, JavaScript, React  
-- **Databases:** MySQL, PostgreSQL, MongoDB  
-- **Others:** Firebase, Git, Figma  
-
-✨ ICPC Dhaka Regional 2024 Contestant  
-🚀 Passionate about creating **user-friendly, scalable web applications**.  
+## 👨‍💻 About Me
+- 🎓 CS Major | Full-Stack Developer  
+- 💻 Tech Stack: **Django, Node.js, Express.js, React, Tailwind**  
+- 🗄️ Databases: **MySQL, PostgreSQL, MongoDB**  
+- 🏆 ICPC Dhaka Regional 2024 Contestant  
+- 🚀 Passionate about **DSA + Scalable Web Apps**  
 
 ---
 
 ## 🎯 Goals  
-- **🥅 2023 Goals**: Complete DSA and become Codeforces ✨  
-- **🥅 2025 Goals**: Become CodeChef 2-star ⭐, solve **700+ problems**, and participate in ICPC Dhaka Regional (✔ Done)  
-- **🥅 2025 Goals**: Improve my full-stack development skills  
+✅ **2023:** Complete DSA & improve Codeforces  
+✅ **2025:** CodeChef 2⭐, 700+ solved problems, ICPC Dhaka Regional  
+🎯 **Future:** Advance full-stack development skills  
 
 ---
 
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=badsha012&label=Profile%20views&color=0e75b6&style=flat" alt="badsha012" />  
-</p>  
-
-<p align="left">  
-  <a href="https://github.com/ryo-ma/github-profile-trophy">  
-    <img src="https://github-profile-trophy.vercel.app/?username=badsha012&theme=onedark" alt="badsha012" />  
-  </a>  
-</p>  
-
----
-
-## 🌐 Connect with me:
-<p align="left">
-<a href="https://twitter.com/mdbadshash84172" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-</a>
-<a href="https://www.linkedin.com/in/md-badsha-sheikh-2019302ba/" target="blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-</p>
-
----
-
-## 🎨 Frontend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-## ⚙️ Backend
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-</p>
-
----
-
-## 🛢️ Database
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🌐 Connect with me  
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badsha012&theme=tokyonight" alt="streak stats" />
+  <a href="https://twitter.com/mdbadshash84172">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/md-badsha-sheikh-2019302ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🚀 Tech Stack  
+
+### 🎨 Frontend  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)  
+
+### ⚙️ Backend  
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
+
+### 🛢️ Database  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=badsha012&theme=radical&hide_border=true" height="150"/>
 </p>  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=badsha012&show_icons=true&locale=en&theme=tokyonight" alt="github stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=badsha012&show_icons=true&theme=radical&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badsha012&layout=compact&theme=radical&hide_border=true" height="150"/>
 </p>  
+
+---
+
+## 📈 Activity Graph  
+[![Badsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=badsha012&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=badsha012&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top languages" />
-</p>  
-
----
-
-## 📈 GitHub Activity Graph
-[![Badsha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=badsha012&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
