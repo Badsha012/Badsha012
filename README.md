@@ -63,17 +63,16 @@
 
 ## 📊 GitHub Stats  
 
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=badsha012&theme=react&hide_border=true&ring=38BDF8&fire=16A34A&currStreakLabel=059669" height="150"/>
-</p>  
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=badsha012&show_icons=true&theme=react&hide_border=true&title_color=38BDF8&icon_color=16A34A" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badsha012&layout=compact&theme=react&hide_border=true&title_color=059669" height="150"/>
 </p>  
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=badsha012&limit=5&theme=react&combine_all_yearly_contributions=true" alt="Total Contributions" />
-</p>
+
 
 
 ---
