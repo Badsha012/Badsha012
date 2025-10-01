@@ -71,12 +71,14 @@ A Computer Science major proficient in full-stack development, utilizing Django 
 
 ---
 
+## Most popular Language
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badsha012&show_icons=true&locale=en&layout=compact" alt="badsha012" /></p>
+
+---
+
 ## 📊 GitHub Stats
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=badsha012&" alt="badsha012" /></p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=badsha012&show_icons=true&locale=en&layout=compact" alt="badsha012" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=badsha012&show_icons=true&locale=en" alt="badsha012" /></p>
 
