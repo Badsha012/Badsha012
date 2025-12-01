@@ -63,10 +63,10 @@
 ## 📊 GitHub Stats  
 
 
-
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=badsha012&show_icons=true&theme=react&hide_border=true&title_color=38BDF8&icon_color=16A34A" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=badsha012&layout=compact&theme=react&hide_border=true&title_color=059669" height="150"/> </p>
+<div align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=badsha012&show_icons=true&theme=react&hide_border=true&title_color=38BDF8&icon_color=16A34A" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badsha012&layout=compact&theme=react&hide_border=true&title_color=059669" />
+</div>
 
 
 
