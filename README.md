@@ -62,11 +62,11 @@
 
 ## 📊 GitHub Stats  
 
-
 <div align="center">
-  <img src="https://github-readme-stats-badsha.vercel.app/api?username=badsha012&show_icons=true&theme=react&hide_border=true&title_color=38BDF8&icon_color=16A34A" />
-  <img src="https://github-readme-stats-badsha.vercel.app/api/top-langs/?username=badsha012&layout=compact&theme=react&hide_border=true&title_color=059669" />
+  <img src="https://github-readme-stats-git-masterorg-nice.vercel.app/api?username=badsha012&show_icons=true&theme=react&hide_border=true" />
+  <img src="https://github-readme-stats-git-masterorg-nice.vercel.app/api/top-langs/?username=badsha012&layout=compact&theme=react&hide_border=true" />
 </div>
+
 
 
 
