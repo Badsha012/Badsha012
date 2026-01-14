@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/md-badsha-sheikh-2019302ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/mdbadshash84172"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white" /></a>
-  <a href="mailto:mdbadshasheikh2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/md-badsha-sheikh-2019302ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/mdbadshash84172"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:mdbadshasheikh2022@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
@@ -31,17 +31,21 @@ I am a results-driven **Computer Science Undergraduate** specializing in buildin
     <td width="50%" valign="top">
       <h4>🎨 Frontend Development</h4>
       <ul>
-        <li><b>Library:</b> React.js, Next.js (Learning)</li>
-        <li><b>Styling:</b> Tailwind CSS, Material UI, Bootstrap</li>
-        <li><b>Core:</b> JavaScript (ES6+), HTML5, CSS3</li>
+        <li>JS **JavaScript (ES6+)** 🟨</li>
+        <li>React **React.js / Next.js** ⚛️</li>
+        <li>CSS **Tailwind CSS** 🌊</li>
+        <li>UI **Material UI / Bootstrap** 💅</li>
+        <li>HTML **HTML5 & CSS3** 🌐</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>⚙️ Backend & DB</h4>
       <ul>
-        <li><b>Frameworks:</b> Django (Python), Node.js, Express.js</li>
-        <li><b>Databases:</b> PostgreSQL, MySQL, MongoDB</li>
-        <li><b>Tools:</b> JWT Auth, REST APIs, Socket.io</li>
+        <li>Python **Django (Python)** 🐍</li>
+        <li>Node **Node.js / Express.js** 🟢</li>
+        <li>DB **PostgreSQL / MySQL** 🐬</li>
+        <li>NoSQL **MongoDB** 🍃</li>
+        <li>API **REST APIs & Socket.io** 🔌</li>
       </ul>
     </td>
   </tr>
@@ -49,17 +53,19 @@ I am a results-driven **Computer Science Undergraduate** specializing in buildin
     <td width="50%" valign="top">
       <h4>🏆 Competitive Programming</h4>
       <ul>
-        <li><b>Languages:</b> C++, Python, JavaScript</li>
-        <li><b>Specialty:</b> DP, Graph Theory, Number Theory</li>
-        <li><b>Experience:</b> ICPC 2024, 2025 Participant</li>
+        <li>CPP **C++ (STL)** 🟦</li>
+        <li>Algo **Data Structures & Algorithms** 🧠</li>
+        <li>Logic **DP, Graph, Number Theory** 🧩</li>
+        <li>Rank **ICPC '24, '25 Regionalist** 🥇</li>
       </ul>
     </td>
     <td width="50%" valign="top">
       <h4>🛠️ Tools & DevOps</h4>
       <ul>
-        <li><b>Version Control:</b> Git, GitHub</li>
-        <li><b>Environment:</b> Linux (Ubuntu), Docker (Basic)</li>
-        <li><b>Design:</b> Figma, Adobe Illustrator</li>
+        <li>Git **Git & GitHub** 🐙</li>
+        <li>Linux **Linux (Ubuntu)** 🐧</li>
+        <li>Docker **Docker (Containerization)** 🐳</li>
+        <li>Design **Figma / Illustrator** 🎨</li>
       </ul>
     </td>
   </tr>
@@ -81,9 +87,9 @@ I am a results-driven **Computer Science Undergraduate** specializing in buildin
 ---
 
 ### 🏆 Recognitions
-* **ICPC Dhaka Regional Contestant** (2024, 2025)
-* **700+ Total Solves** (Codeforces, CodeChef, AtCoder, VJudge)
-* **Active Problem Solver** on major Online Judges.
+* 🥇 **ICPC Dhaka Regional Contestant** (2024, 2025)
+* 🧩 **700+ Total Solves** across Codeforces, CodeChef, AtCoder.
+* 🚀 **Top Contributor** in local programming communities.
 
 ---
 
