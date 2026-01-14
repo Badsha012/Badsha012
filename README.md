@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Badsha+Sheikh;Full-Stack+Developer;Competitive+Programmer;ICPC+Dhaka+Regional+Contestant+2024+%26+2025" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Hi%2C+I'm+Badsha+Sheikh;Full-Stack+Developer;Competitive+Programmer;ICPC+Dhaka+Regional+Contestant+2024+%26+2025" />
 </h1>
 
 <p align="center">
@@ -9,54 +9,54 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 About Me  
 
 🎓 **Computer Science Undergraduate**  
 💻 **Full-Stack Developer**  
-🏆 **ICPC Dhaka Regional Contestant (2024, 2025)**  
+🏆 **ICPC Dhaka Regional Contestant (2024 & 2025)**  
 
-I am a passionate developer with strong interests in **Competitive Programming** and **Scalable Web Applications**.  
-I enjoy solving complex problems, writing clean code, and building efficient systems.
-
----
-
-## 🛠️ Technical Skills
-
-### Frontend
-- React.js
-- JavaScript (ES6+)
-- Tailwind CSS
-- HTML5, CSS3
-
-### Backend
-- Django (Python)
-- Node.js
-- Express.js
-
-### Databases
-- MySQL
-- PostgreSQL
-- MongoDB
-
-### Tools & Platforms
-- Git & GitHub
-- Firebase
-- Figma
-- Linux (Basic)
+🚀 Passionate about **Competitive Programming** and **Scalable Web Applications**  
+✨ I enjoy building clean systems, solving complex problems, and continuously learning new technologies.
 
 ---
 
-## 🎯 Achievements & Goals
+## 🛠️ Technical Skills  
 
-- ✅ Completed core **Data Structures & Algorithms**
-- ✅ Participated in **ICPC Dhaka Regional 2024**
-- ✅ Solved **700+ Competitive Programming problems**
-- 🎯 Targeting **CodeChef 2⭐** and higher Codeforces rating
-- 🎯 Advance expertise in **Full-Stack Development & CP**
+### 🎨 Frontend  
+- ⚛️ React.js  
+- 🟨 JavaScript (ES6+)  
+- 🎨 Tailwind CSS  
+- 🌐 HTML5, CSS3  
+
+### ⚙️ Backend  
+- 🐍 Django (Python)  
+- 🟢 Node.js  
+- 🚄 Express.js  
+
+### 🛢️ Database  
+- 🐬 MySQL  
+- 🐘 PostgreSQL  
+- 🍃 MongoDB  
+
+### 🔧 Tools & Platforms  
+- 🧠 Git & GitHub  
+- 🔥 Firebase  
+- 🎨 Figma  
+- 🐧 Linux (Basic)
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Achievements & Goals  
+
+- ✅ Completed **Core Data Structures & Algorithms**  
+- 🏆 Participated in **ICPC Dhaka Regional 2024**  
+- 💡 Solved **700+ Competitive Programming Problems**  
+- ⭐ Targeting **CodeChef 2⭐**  
+- 🚀 Goal: Become a **Strong Full-Stack Engineer & Competitive Programmer**
+
+---
+
+## 🌐 Connect With Me  
 
 <p align="center">
   <a href="https://twitter.com/mdbadshash84172">
@@ -69,7 +69,7 @@ I enjoy solving complex problems, writing clean code, and building efficient sys
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=badsha012&show_icons=true&theme=react&hide_border=true" height="160"/>
@@ -78,7 +78,7 @@ I enjoy solving complex problems, writing clean code, and building efficient sys
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Activity  
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=badsha012&theme=react-dark&bg_color=0D1117&color=38BDF8&line=16A34A&point=059669&area=true&hide_border=true"/>
