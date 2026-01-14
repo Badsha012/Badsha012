@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Badsha+Sheikh;Full-Stack+Developer;Competitive+Programmer;ICPC+Dhaka+Regional+2024+Contestant" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Badsha+Sheikh;Full-Stack+Developer;Competitive+Programmer;ICPC+Dhaka+Regional+2024+Contestant;ICPC+Dhaka+Regional+2025+Contestant" alt="Typing Animation" />
 </h1>
 
 <p align="center">
