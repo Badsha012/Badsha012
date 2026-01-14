@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/67v5pL0Y/1763566657742.jpg" alt="Badsha Sheikh Banner" width="100%">
+  <img src="https://i.ibb.co.com/ZR98N2SH/1763566657742.jpg" alt="Badsha Sheikh Banner" width="100%">
 </p>
 
 <h1 align="center">
